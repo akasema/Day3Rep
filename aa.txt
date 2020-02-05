@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is new file demo
 demo 
 demo 
 demo 
+=======
+this is new file demo
+>>>>>>> 5a277dab9603f75863b25aba168a4e3bc9a63066
